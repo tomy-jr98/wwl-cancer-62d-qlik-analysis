@@ -6,15 +6,13 @@ Wrightington, Wigan and Leigh NHS Foundation Trust (WWL) using SQL and Qlik Sens
 
 The objective is to support performance monitoring and decision-making by identifying:
 
-Overall compliance with the NHS 62-day cancer standard
-
-Underperforming cancer pathways
-
-Cancer services contributing the highest volume of delayed patients
+1.Overall compliance with the NHS 62-day cancer standard
+2.Underperforming cancer pathways
+3.Cancer services contributing the highest volume of delayed patients
 
 📊 Data Source
 
-NHS England – Cancer Waiting Times
+NHS England – Cancer Waiting Times-https://www.england.nhs.uk/statistics/statistical-work-areas/cancer-waiting-times/monthly-data-and-summaries/2025-26-monthly-cancer-waiting-times-statistics/
 
 October 2025 (Provisional)
 
