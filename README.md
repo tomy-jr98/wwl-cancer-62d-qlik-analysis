@@ -7,7 +7,9 @@ Wrightington, Wigan and Leigh NHS Foundation Trust (WWL) using SQL and Qlik Sens
 The objective is to support performance monitoring and decision-making by identifying:
 
 1.Overall compliance with the NHS 62-day cancer standard
+
 2.Underperforming cancer pathways
+
 3.Cancer services contributing the highest volume of delayed patients
 
 📊 Data Source
