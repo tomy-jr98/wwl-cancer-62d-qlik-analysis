@@ -34,7 +34,6 @@ Validated for internal consistency:
 
 Total pathways = Within + After 62 Days
 
-Filtered dataset stored in /data
 
 🧮 SQL Analysis
 
@@ -48,7 +47,7 @@ Aggregate pathway-level performance
 
 Identify cancer types with low 62-day compliance
 
-SQL scripts are available in the /sql folder.
+SQL scripts are available in the repository
 
 📈 Dashboard (Qlik Sense Desktop)
 
@@ -70,7 +69,7 @@ Within vs After 62-Day Target split
 
 An interactive Cancer Type filter allows stakeholders to focus on specific pathways.
 
-Dashboard screenshots are available in /qlik/dashboard_screenshots.
+Dashboard screenshots are available in thr repository
 
 🧠 Business Analysis & Agile Approach
 
